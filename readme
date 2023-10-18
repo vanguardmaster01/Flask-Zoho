@@ -1,0 +1,20 @@
+python --veriosn
+
+# create virtualenv
+python -m venv zohoproject
+
+# activate virtualenv
+zohoproject\Scripts\activate
+
+# install flask in virtualenv
+pip install flask
+
+# install and update MarkupSafe
+pip install -U MarkupSafe
+
+
+
+
+# zoho sign
+https://accounts.zoho.com/
+
